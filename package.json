@@ -1,12 +1,12 @@
 {
   "author": "Mihai Tomescu <matomesc@gmail.com> (https://github.com/matomesc)",
-  "name": "shorty",
+  "name": "shortly",
   "description": "client for a few url shorteners (bit.ly, goo.gl)",
   "version": "0.0.0",
-  "homepage": "https://github.com/matomesc/shorty",
+  "homepage": "https://github.com/matomesc/shortly",
   "repository": {
     "type": "git",
-    "url": "git://github.com/matomesc/shorty.git"
+    "url": "git://github.com/matomesc/shortly.git"
   },
   "main": "index.js",
   "scripts": {
