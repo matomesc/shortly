@@ -1,4 +1,4 @@
-# shorty
+# shortly
 
 ```
 client for the bit.ly shortener (for now). more coming
@@ -7,7 +7,7 @@ client for the bit.ly shortener (for now). more coming
 ## example
 ```javascript
 var inspect = require('util').inspect;
-var shorty = require('shorty');
+var shortly = require('shortly');
 
 //
 // bit.ly
@@ -26,7 +26,7 @@ bitly.clicks({ shortUrl: 'http://bit.ly/yerCKs' }, function (err, res) {
 ## install
 
 ```
-$ npm install shorty
+$ npm install shortly
 ```
 
 ## usage
