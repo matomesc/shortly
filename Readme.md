@@ -12,7 +12,7 @@ var shortly = require('shortly');
 //
 // bit.ly
 //
-var bitly = new shorty.Bitly({ login: 'foo', key: 'bar' });
+var bitly = new shortly.Bitly({ login: 'foo', key: 'bar' });
 
 bitly.clicks({ shortUrl: 'http://bit.ly/yerCKs' }, function (err, res) {
   console.log(inspect(res, true, 10));
