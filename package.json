@@ -2,6 +2,7 @@
   "author": "Mihai Tomescu <matomesc@gmail.com> (https://github.com/matomesc)",
   "name": "shortly",
   "description": "client for a few url shorteners (bit.ly, goo.gl)",
+  "keywords": ["bitly", "google", "client", "url", "shortener"],
   "version": "0.0.0",
   "homepage": "https://github.com/matomesc/shortly",
   "repository": {
