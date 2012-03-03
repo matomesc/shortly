@@ -1,0 +1,25 @@
+{
+  "author": "Mihai Tomescu <matomesc@gmail.com> (https://github.com/matomesc)",
+  "name": "shorty",
+  "description": "client for a few url shorteners (bit.ly, goo.gl)",
+  "version": "0.0.0",
+  "homepage": "https://github.com/matomesc/shorty",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matomesc/shorty.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R spec"
+  },
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "dependencies": {
+    "request": "2.9.x"
+  },
+  "devDependencies": {
+    "mocha": "0.14.x"
+  },
+  "optionalDependencies": {}
+}
